@@ -11,6 +11,6 @@ Tools Used
 
 maven commands
 --------------
-mvn clean install
-mvn test
+1) mvn clean install
+2) mvn test
 
